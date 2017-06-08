@@ -10,7 +10,7 @@ A really simple and fast page for freelancers who don't know which website they 
 
 -Naturally a onepage theme, but since it's HTML and CSS, everything is customizable.
 
--Go grazy with it, since it's GPL license.
+-Go grazy with it, since it's GNU license.
 
 -Took a few minutes to build that simple template.
 
